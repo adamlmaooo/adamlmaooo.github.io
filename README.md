@@ -1,2 +1,2 @@
 # website
-github.io website that lists experience and some other stuff
+github pages website that lists experience and some other stuff
