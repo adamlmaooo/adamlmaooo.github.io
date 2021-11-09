@@ -46,7 +46,10 @@
   .u-section-1 .u-sheet-1 {
     min-height: 239px;
   }
-
+.u-section-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("https://i.imgur.com/fzcgCeS.jpeg");
+  background-position: 50% 50%;
+ }
   .u-section-1 .u-text-2 {
     width: 340px;
   }
